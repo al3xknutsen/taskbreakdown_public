@@ -24,3 +24,18 @@ flutter test
 
 Select a task and use the robot button to add sample subtasks. Settings also
 allows sample generation after speech input. Tasks remain stored on the device.
+
+## Purpose and AI-assisted development
+I built this app as an experiment in AI-assisted development: to learn how
+to guide AI agents and explore their capabilities and limitations when
+building a small application.
+
+I made the architectural decisions, organized the code, and chose where
+to use external libraries. AI agents generated substantial portions of
+the implementation, while I directed the work and wrote or adapted code
+where needed, particularly when integrating third-party libraries.
+
+This repository is a portfolio snapshot of that experiment, adapted to
+run without production services. It demonstrates my early exploration
+of AI-assisted development, rather than a reference implementation of
+my current engineering standards.
