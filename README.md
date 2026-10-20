@@ -39,3 +39,18 @@ This repository is a portfolio snapshot of that experiment, adapted to
 run without production services. It demonstrates my early exploration
 of AI-assisted development, rather than a reference implementation of
 my current engineering standards.
+
+### What I learned
+
+The experiment helped me distinguish between generating code and owning
+the engineering decisions behind it. AI agents could produce substantial
+parts of the implementation, but still needed direction on architecture,
+code organization, and library selection.
+
+Third-party integrations required particular attention. Generated code
+was not always sufficient on its own. Understanding the libraries and
+adapting the implementation manually remained important.
+
+My main takeaway was that AI-assisted development still depends on
+engineering judgment like knowing how to break down the work, provide useful
+context, and recognize when to intervene rather than continue prompting.
